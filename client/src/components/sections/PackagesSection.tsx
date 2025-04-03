@@ -7,8 +7,8 @@ import { Package } from '../../types/Package'
 const packages: Package[] = [
   {
     id: '1',
-    image: 'https://images.unsplash.com/photo-1501386761578-eac5c94b800a',
-    concertName: 'Summer Music Festival',
+    image: 'client/public/YC (IMG)/cold.webp',
+    concertName: 'Persona',
     artistName: 'Various Artists',
     timeRange: '1 PM - 6:30 PM',
     locationDetails: '123 Festival Ave, Music City, MC 12345',

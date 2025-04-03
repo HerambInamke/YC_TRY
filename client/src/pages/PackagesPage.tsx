@@ -2,22 +2,22 @@ export default function PackagesPage() {
   const packages = [
     {
       name: 'Standard Pass',
-      price: '$199',
+      price: '₹1',
       features: ['1-Day Access', 'Standard Viewing Areas', 'Food Court Access'],
     },
     {
       name: 'VIP Pass',
-      price: '$399',
+      price: '₹2',
       features: ['2-Day Access', 'VIP Viewing Areas', 'Exclusive Lounge Access', 'Meet & Greet'],
     },
     {
       name: 'Premium Pass',
-      price: '$599',
+      price: '₹3',
       features: ['Full Festival Access', 'Backstage Tours', 'Luxury Amenities', 'Private Transport'],
     },
     {
       name: 'Ultimate Experience',
-      price: '$999',
+      price: '₹4',
       features: ['All Premium Features', 'Helicopter Transfer', 'Personal Concierge', 'Luxury Accommodation'],
     },
   ]

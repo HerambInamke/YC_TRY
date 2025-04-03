@@ -6,21 +6,21 @@ import { Artist } from '../../types/Artist'
 const artists: Artist[] = [
   {
     id: '1',
-    name: 'John Doe',
-    image: 'https://images.unsplash.com/photo-1501386761578-eac5c94b800a',
+    name: 'Artist Name 1',
+    image: 'client/public/YC (IMG)/593532f2da6dde2b77402dcc.webp',
     colorDot: 'red',
     isFavorite: false,
   },
   {
     id: '2',
-    name: 'Jane Smith',
+    name: 'Artist Namw 2',
     image: 'https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f',
     colorDot: 'blue',
     isFavorite: true,
   },
   {
     id: '3',
-    name: 'Mike Johnson',
+    name: 'Artist Name 3',
     image: 'https://images.unsplash.com/photo-1470225620780-dba8ba36b745',
     colorDot: 'yellow',
     isFavorite: false,
